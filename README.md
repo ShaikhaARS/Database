@@ -24,7 +24,5 @@ This repository provides a brief overview of essential SQL commands used in data
 - **SAVEPOINT**: Set a point to which you can roll back.
 - **SET TRANSACTION**: Configure transaction settings.
 
-## Contributions
 
-Feel free to contribute by submitting issues or pull requests.
 
